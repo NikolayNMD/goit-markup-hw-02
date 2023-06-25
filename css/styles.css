@@ -153,9 +153,11 @@ body {
 
 .portfolio-button {
   font-weight: 500;
-  letter-spacing: 0.04;
+  letter-spacing: 0.04em;
+  line-height: 1.5;
   color: var(--iris-color);
   text-align: center;
+  cursor: pointer;
   background-color: var(--cloud-color);
 }
 
