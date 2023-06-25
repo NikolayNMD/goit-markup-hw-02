@@ -179,3 +179,7 @@ body {
 .portfolio-item .link {
   text-decoration: none;
 }
+
+.portfolio-text {
+  color: #434455;
+}
